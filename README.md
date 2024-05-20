@@ -86,26 +86,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a pull request
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
-### requirements.txt
-Additionally, you can create a `requirements.txt` file to specify the required Python packages for your project:
-
-```
-pandas
-numpy
-seaborn
-matplotlib
-plotly
-scikit-learn
-openpyxl
-shap
-```
-
-### Example Project Structure
-Ensure your project has a clear and organized structure. Here is an example:
 
 
 
