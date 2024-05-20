@@ -12,7 +12,7 @@ This project aims to analyze a personal loan dataset using various data analysis
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project involves a comprehensive analysis of personal loan data. It includes importing data, cleaning, exploring, and visualizing it to gain insights. The goal is to build predictive models that can identify customers who are likely to take a personal loan.
@@ -67,10 +67,7 @@ The notebook includes detailed exploratory data analysis (EDA) with visualizatio
 ## Machine Learning Models
 The project includes the implementation of various machine learning models to predict personal loan approval:
 - Logistic Regression
-- Decision Trees
 - Random Forest
-- Gradient Boosting
-- XGBoost
 
 Model evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC are used to assess model performance.
 
